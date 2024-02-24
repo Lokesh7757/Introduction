@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lokesh7757
-- 👀 I’m interested in Python, Typescript, OOPS 
+- 👋 Hi, I’m @Lokesh Khankari
+- 👀 I’m interested in Python, Typescript, C++, OOPS 
 - 🌱 I’m currently learning Master of Computer Application
 
 <!---
